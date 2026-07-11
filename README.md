@@ -68,4 +68,3 @@ This repository contains my submission for a Flutter Developer interview assignm
 ## Purpose
 This project was developed as part of a Flutter Developer interview assessment to demonstrate practical Flutter development skills, problem-solving ability, and understanding of modern mobile application development concepts.
 
-Thank you for taking the time to review my submission.
